@@ -67,7 +67,3 @@ GOOGLE_API_KEY=your_key
 ```bash
 docker build -t research-agent .
 docker run -p 8000:8000 --env-file .env research-agent
-
-m "Add professional documentation"`, and `git push origin main`.
-
-**Would you like me to help you write the "Future Scope" section for this README to show the evaluators how you plan to scale this system?**
